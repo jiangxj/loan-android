@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">五斗贷</string>
+    <string name="dummy_content" translatable="false">五斗贷</string>
+    <string name="capture_qrcode_prompt" translatable="false">请将条码置于取景框内扫描</string>
+    <string name="cpu_not_support_tip" translatable="false">仅支持移动设备</string>
+    <string name="index_tip" translatable="false">连接超时</string>
+    <string name="scan_qr_code" translatable="false">扫码</string>
+    <string name="page_refresh" translatable="false">刷新</string>
+</resources>

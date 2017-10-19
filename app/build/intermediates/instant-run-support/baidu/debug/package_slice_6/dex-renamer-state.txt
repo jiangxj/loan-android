@@ -1,0 +1,4 @@
+#Thu Oct 19 16:33:08 CST 2017
+base.0=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\5\\slice_6\\classes.dex

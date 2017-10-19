@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\menu\\main_scan.xml",
+        "source": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\menu\\main.xml",
+        "source": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeXiaomiDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 55,
+                        "endOffset": 280
+                    }
+                }
+            }
+        ]
+    }
+]

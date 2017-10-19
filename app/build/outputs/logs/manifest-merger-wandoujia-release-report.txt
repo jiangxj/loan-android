@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:4:11-38
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:9:5-64
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:12:5-87
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:12:22-85
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:13:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.INTERNAL_SYSTEM_WINDOW
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-feature#android.hardware.camera
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:19:5-59
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:20:5-69
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:32:5-34:36
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:20:19-67
+application
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:22:5-68:19
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:29:5-35:19
+MERGED from [android:weexplugin:unspecified] D:\temp\loan-weex\loan-weex\platforms\android\weexplugin\build\intermediates\bundles\default\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:23.1.1] C:\Users\xiaoi-010\.android\build-cache\64faa7e0d0d28c80de0312dc7069897978ee8961\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\xiaoi-010\.android\build-cache\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\output\AndroidManifest.xml:22:5-20
+MERGED from [com.taobao.android:weex_inspector:0.10.0.5] C:\Users\xiaoi-010\.android\build-cache\de21e5664d39599c17554cb04704ef96eca1b24a\output\AndroidManifest.xml:13:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\xiaoi-010\.android\build-cache\be8b048a2012671981ae9d4ecfe950662c285f43\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:26:13-45
+	android:supportsRtl
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:27:13-39
+	tools:overrideLibrary
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:28:13-64
+	android:allowBackup
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:24:13-40
+	android:icon
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:theme
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:23:13-42
+uses-library#android.test.runner
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:30:9-59
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:30:23-57
+activity#net.soumoney.loan.SplashActivity
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:32:9-43:20
+	android:screenOrientation
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:36:17-53
+	android:label
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:35:17-49
+	android:configChanges
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:34:17-78
+	android:theme
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:37:17-55
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:33:17-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:41:27-74
+activity#net.soumoney.loan.WXPageActivity
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:44:9-60:20
+	android:screenOrientation
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:47:17-53
+	android:label
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:46:17-49
+	android:theme
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:48:17-48
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:45:17-47
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT+com.alibaba.weex.protocol.openurl+com.taobao.android.intent.category.WEEX
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:49:13-59:29
+action#android.intent.action.VIEW
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:50:25-66
+action#com.alibaba.weex.protocol.openurl
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:51:17-75
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:51:25-73
+category#android.intent.category.DEFAULT
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:53:17-75
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:53:27-73
+category#com.taobao.android.intent.category.WEEX
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:54:17-83
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:54:27-81
+data
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:56:17-46
+	android:scheme
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:56:23-44
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:61:9-64:49
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:63:13-49
+		REJECTED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:51:13-54
+	tools:replace
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:64:13-46
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:62:13-74
+meta-data#UMENG_APPKEY
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:66:9-101
+	android:value
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:66:20-60
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:66:61-88
+meta-data#UMENG_CHANNEL
+ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:67:9-89
+	android:value
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:67:20-58
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+	android:name
+		ADDED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml:67:59-87
+uses-sdk
+INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [android:appframework:unspecified] D:\temp\loan-weex\loan-weex\platforms\android\appframework\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.10.0] C:\Users\xiaoi-010\.android\build-cache\1fffc1715469d4eceafd37e947aeb32a2cd26692\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] C:\Users\xiaoi-010\.android\build-cache\6a50c07370b082b2d03506b98bee7e8589ccc17b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] C:\Users\xiaoi-010\.android\build-cache\f3760c70c132dd8c7b76653596645e76238ff66a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] C:\Users\xiaoi-010\.android\build-cache\b3b9b8af4dbf3eaa7250d33bdb7a25a4a1ff2905\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] C:\Users\xiaoi-010\.android\build-cache\c905cff7f0f20e4a37721608d0e27109aa65aabc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [android:weexplugin:unspecified] D:\temp\loan-weex\loan-weex\platforms\android\weexplugin\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.1.1] C:\Users\xiaoi-010\.android\build-cache\64faa7e0d0d28c80de0312dc7069897978ee8961\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\xiaoi-010\.android\build-cache\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\xiaoi-010\.android\build-cache\a5005b8ed719372b40e921f9518ce4839a296199\output\AndroidManifest.xml:20:5-43
+MERGED from [com.taobao.android:weex_inspector:0.10.0.5] C:\Users\xiaoi-010\.android\build-cache\de21e5664d39599c17554cb04704ef96eca1b24a\output\AndroidManifest.xml:8:5-11:60
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\xiaoi-010\.android\build-cache\be8b048a2012671981ae9d4ecfe950662c285f43\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.taobao.android:weex_inspector:0.10.0.5] C:\Users\xiaoi-010\.android\build-cache\de21e5664d39599c17554cb04704ef96eca1b24a\output\AndroidManifest.xml:11:9-57
+	android:targetSdkVersion
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\temp\loan-weex\loan-weex\platforms\android\app\src\main\AndroidManifest.xml
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.taobao.android:weex_sdk:0.16.0] C:\Users\xiaoi-010\.android\build-cache\c867b5707468bb18ba9e31edffcd98a3c711451c\output\AndroidManifest.xml:31:13-65
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\xiaoi-010\.android\build-cache\9dabf3519df5d4159894758e682d6b9817711c18\output\AndroidManifest.xml:42:9-45

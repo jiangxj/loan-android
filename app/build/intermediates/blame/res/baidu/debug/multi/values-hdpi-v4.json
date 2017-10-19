@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeBaiduDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    }
+]

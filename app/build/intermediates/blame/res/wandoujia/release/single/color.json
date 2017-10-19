@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\wandoujia\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]

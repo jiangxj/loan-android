@@ -1,0 +1,7 @@
+#Thu Oct 19 16:33:08 CST 2017
+base.0=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7adb78c61a9f2b092795895dbc1f158b80b75435
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10000\\instant-run_276bd37ecfe254fca387671c019bec6b1e38faf4\\classes.dex
+base.1=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10000\\instant-run_276bd37ecfe254fca387671c019bec6b1e38faf4
+file.0=D\:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7adb78c61a9f2b092795895dbc1f158b80b75435\\classes.dex

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\64faa7e0d0d28c80de0312dc7069897978ee8961\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\64faa7e0d0d28c80de0312dc7069897978ee8961\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\64faa7e0d0d28c80de0312dc7069897978ee8961\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\e8f0d3a6a0100b7ffb0168621cd97cc09efb4cff\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\xiaoi-010\\.android\\build-cache\\64faa7e0d0d28c80de0312dc7069897978ee8961\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

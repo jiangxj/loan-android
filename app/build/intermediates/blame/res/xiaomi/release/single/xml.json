@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\xml\\app_config.xml",
+        "source": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\app\\build\\intermediates\\res\\merged\\xiaomi\\release\\xml\\config.xml",
+        "source": "D:\\temp\\loan-weex\\loan-weex\\platforms\\android\\weexplugin\\build\\intermediates\\bundles\\default\\res\\xml\\config.xml"
+    }
+]

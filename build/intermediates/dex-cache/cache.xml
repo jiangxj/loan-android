@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\incremental-classes\baidu\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="469a2043b32cb461a60d0d470f4ca54e888de987">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10000\instant-run-bootstrap_7adb78c61a9f2b092795895dbc1f158b80b75435\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\temp\loan-weex\loan-weex\platforms\android\appframework\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da147275afa0e48d0f258c2dd0fafb1b832fe6d3">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\pre-dexed\xiaomi\release\classes_3d4b3c16f7eb60bba43eb9d4e10382e885211ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiaoi-010\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.2\c3b60518ca618748430276191918f78ab36bc4b5\analytics-6.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\pre-dexed\xiaomi\release\analytics-6.1.2_6b517be619b75691d95c85b6ff1c15c1b187d2e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaoi-010\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.2\c3b60518ca618748430276191918f78ab36bc4b5\analytics-6.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\analytics-6.1.2_6b517be619b75691d95c85b6ff1c15c1b187d2e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\temp\loan-weex\loan-weex\platforms\android\weexplugin\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4380920339da6432983f39c738858bc0aef8cf0e">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\pre-dexed\xiaomi\release\classes_3fc0d402d3c2611a8f317fd2d6a224a9656ee0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\pre-dexed\xiaomi\debug\jacocoagent_c7471e4790af75b248c673f23450360bf3ddecfa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\incremental-runtime-classes\baidu\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\temp\loan-weex\loan-weex\platforms\android\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10000\instant-run_276bd37ecfe254fca387671c019bec6b1e38faf4\classes.dex" />
+    </item>
+
+</items>
